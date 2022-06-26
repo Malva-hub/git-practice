@@ -1,0 +1,39 @@
+h1 {
+    color: pink; 
+    text-decoration: underline; 
+   }
+   
+   p {
+     font-size: 18px;
+     width: 400px;
+     text-indent: 50px;
+     text-align: justify;
+   }
+
+   .red-box {
+    background-color: red;
+  }
+  
+  .blue-box {
+    background-color: blue;
+  }
+  .red-group {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+  }
+  
+  .blue-group {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+  }
+  #cover-box{
+    background-color: black;
+    color:navy;
+    width: 100px;
+    height: 50px;
+  }
+  *{
+    color:green;
+  }
